@@ -9,7 +9,7 @@ function App() {
               Chapter One
             </span>
           </div>
-          <a href="#folio-tiers" className="bg-primary text-on-primary px-8 py-3 font-label text-[10px] tracking-[0.2em] uppercase transition-opacity duration-300 active:opacity-80 inline-block">
+          <a href="https://tally.so/r/rjV6Pl" target="_blank" rel="noopener noreferrer" className="bg-primary text-on-primary px-8 py-3 font-label text-[10px] tracking-[0.2em] uppercase transition-opacity duration-300 active:opacity-80 inline-block">
             Apply
           </a>
         </div>
@@ -33,7 +33,7 @@ function App() {
                   dialogue.
                 </p>
                 <div className="flex items-center gap-8">
-                  <a href="#folio-tiers" className="bg-primary text-on-primary px-10 py-4 font-label text-[12px] tracking-[0.2em] uppercase inline-block">
+                  <a href="https://tally.so/r/rjV6Pl" target="_blank" rel="noopener noreferrer" className="bg-primary text-on-primary px-10 py-4 font-label text-[12px] tracking-[0.2em] uppercase inline-block">
                     Join the Parisian Assembly
                   </a>
                 </div>
@@ -57,7 +57,7 @@ function App() {
             <img
               alt="Parisian rooftops at dawn"
               className="w-full h-full object-cover opacity-90 grayscale-[0.2] contrast-125"
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuB5pCPDyGerxB4A5zvOzI5-JOZGdPCxIucjgNp5h5E3cZ5bBfEKcmrzhprxG8Qi-eWZ3asThzUY-WIDB67Ed3DaTKBhQ3eYSArxmCjdLgWpPRYCOCzAPJqR4tbEhZcyuO3pJqwJARElDsGFgvd3I4ZlJTe80xdFjbvuRLUjQ69dIPdPwxYbeBwJEAe1IWh_Mu0jvIL1uvkblGDkXh9-7Dsst5dW_UEWMhI28FFqWXcJsl3nkocLjoPslgeYryif_Ydoj2yjxFh2mDFG"
+              src="/hero.png"
             />
           </div>
           <div className="mt-8 flex justify-end">
@@ -86,8 +86,8 @@ function App() {
             <p className="text-lg leading-[1.8] text-on-surface">
               For our partners, this means access to an environment where your
               presence is felt through quality, not volume. We offer a limited
-              number of "Folio Chairs"—sponsorship roles designed to integrate
-              seamlessly into the experience.
+              number of sponsorship roles designed to integrate seamlessly into
+              the experience.
             </p>
           </div>
         </section>
@@ -112,7 +112,7 @@ function App() {
                   <li className="flex items-center gap-3"><span className="w-1 h-1 bg-primary/40 rounded-full" /> Anonymized guest list profile</li>
                 </ul>
               </div>
-              <button className="w-full border border-stone-200 py-4 font-label text-[10px] tracking-[0.3em] uppercase text-stone-600 hover:border-primary hover:text-primary transition-all duration-500">Inquire</button>
+              <a href="https://tally.so/r/rjV6Pl" target="_blank" rel="noopener noreferrer" className="block w-full border border-stone-200 py-4 font-label text-[10px] tracking-[0.3em] uppercase text-stone-600 hover:border-primary hover:text-primary transition-all duration-500 text-center">Inquire</a>
             </div>
             {/* Tier II — Principal */}
             <div className="bg-surface-container-low p-12 flex flex-col justify-between min-h-[550px] relative overflow-hidden transition-all duration-500 hover:scale-[1.02] hover:z-10 hover:shadow-lg">
@@ -130,7 +130,7 @@ function App() {
                   <li className="flex items-center gap-3"><span className="w-1.5 h-1.5 bg-primary rounded-full" /> A personal introduction to the room</li>
                 </ul>
               </div>
-              <button className="w-full bg-primary text-white py-4 font-label text-[10px] tracking-[0.3em] uppercase hover:opacity-90 transition-all duration-500 shadow-sm">Select Role</button>
+              <a href="https://tally.so/r/rjV6Pl" target="_blank" rel="noopener noreferrer" className="block w-full bg-primary text-white py-4 font-label text-[10px] tracking-[0.3em] uppercase hover:opacity-90 transition-all duration-500 shadow-sm text-center">Select Role</a>
             </div>
             {/* Tier III */}
             <div className="bg-background p-12 flex flex-col justify-between min-h-[550px] transition-all duration-500 hover:scale-[1.02] hover:z-10 hover:shadow-lg">
@@ -146,7 +146,7 @@ function App() {
                   <li className="flex items-center gap-3"><span className="w-1 h-1 bg-primary/40 rounded-full" /> Direct introductions post-event</li>
                 </ul>
               </div>
-              <button className="w-full border border-stone-200 py-4 font-label text-[10px] tracking-[0.3em] uppercase text-stone-600 hover:border-primary hover:text-primary transition-all duration-500">Apply for Seat</button>
+              <a href="https://tally.so/r/rjV6Pl" target="_blank" rel="noopener noreferrer" className="block w-full border border-stone-200 py-4 font-label text-[10px] tracking-[0.3em] uppercase text-stone-600 hover:border-primary hover:text-primary transition-all duration-500 text-center">Apply for Seat</a>
             </div>
           </div>
         </section>
@@ -168,7 +168,7 @@ function App() {
               Applications for sponsorship are open until April 7th, 2025. Only
               2 positions left available.
             </p>
-            <a href="#folio-tiers" className="bg-white text-stone-900 px-12 py-5 font-label text-[12px] tracking-[0.2em] uppercase inline-block">
+            <a href="https://tally.so/r/rjV6Pl" target="_blank" rel="noopener noreferrer" className="bg-white text-stone-900 px-12 py-5 font-label text-[12px] tracking-[0.2em] uppercase inline-block">
               Begin Application
             </a>
           </div>
