@@ -53,9 +53,9 @@
   --color-on-primary-fixed-variant: #78311a;
   --color-surface-tint: #96472f;
 
-  --radius: 0px;
-  --radius-lg: 0px;
-  --radius-xl: 0px;
+  --radius: 0;
+  --radius-lg: 0;
+  --radius-xl: 0;
 }
 
 .material-symbols-outlined {
