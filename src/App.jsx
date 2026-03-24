@@ -93,7 +93,7 @@ function App() {
         </section>
 
         {/* Sponsorship Tiers */}
-        <section id="folio-tiers" className="mb-48 max-w-6xl mx-auto scroll-mt-12">
+        <section id="folio-tiers" className="mb-24 max-w-6xl mx-auto scroll-mt-12">
           <div className="mb-20 text-center">
             <p className="font-label text-[0.625rem] tracking-[0.4em] uppercase text-stone-400 mb-6">Partnership Opportunities</p>
             <h3 className="font-headline text-4xl italic">The Folio Tiers</h3>
@@ -168,7 +168,7 @@ function App() {
                 <div className="w-32 h-32 rounded-full bg-surface-container-high flex items-center justify-center mb-6">
                   <span className="font-headline text-3xl text-stone-400">L</span>
                 </div>
-                <h4 className="font-headline text-lg mb-1">Loïc</h4>
+                <h4 className="font-headline text-lg mb-1">L.</h4>
                 <p className="text-stone-500 text-sm">DeFi & Web3</p>
               </div>
               {/* Yoan */}
